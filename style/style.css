@@ -32,6 +32,7 @@ body{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    text-align: center;
 }
 /* nav related styles */
 nav{
@@ -110,4 +111,7 @@ main{
     display: flex;
     justify-content: space-around;
     text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
